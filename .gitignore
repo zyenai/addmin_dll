@@ -3,7 +3,7 @@
 **/target/
 
 # Cargo lock file (uncomment next line if building a library)
-# Cargo.lock
+Cargo.lock
 
 # Backup files
 **/*.rs.bk
