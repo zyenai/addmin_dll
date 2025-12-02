@@ -1,0 +1,21 @@
+# Compiled outputs
+/target/
+**/target/
+
+# Cargo lock file (uncomment next line if building a library)
+# Cargo.lock
+
+# Backup files
+**/*.rs.bk
+*.pdb
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
